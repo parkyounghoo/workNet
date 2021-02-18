@@ -1,0 +1,9 @@
+C:\Users\admin_kpc\Desktop\프로젝트\02.Project\KPC_Monitoring\workNet\bin\Debug\workNet.exe.config
+C:\Users\admin_kpc\Desktop\프로젝트\02.Project\KPC_Monitoring\workNet\bin\Debug\workNet.exe
+C:\Users\admin_kpc\Desktop\프로젝트\02.Project\KPC_Monitoring\workNet\bin\Debug\workNet.pdb
+C:\Users\admin_kpc\Desktop\프로젝트\02.Project\KPC_Monitoring\workNet\bin\Debug\Newtonsoft.Json.dll
+C:\Users\admin_kpc\Desktop\프로젝트\02.Project\KPC_Monitoring\workNet\bin\Debug\Newtonsoft.Json.xml
+C:\Users\admin_kpc\Desktop\프로젝트\02.Project\KPC_Monitoring\workNet\obj\Debug\workNet.csprojAssemblyReference.cache
+C:\Users\admin_kpc\Desktop\프로젝트\02.Project\KPC_Monitoring\workNet\obj\Debug\workNet.csproj.CopyComplete
+C:\Users\admin_kpc\Desktop\프로젝트\02.Project\KPC_Monitoring\workNet\obj\Debug\workNet.exe
+C:\Users\admin_kpc\Desktop\프로젝트\02.Project\KPC_Monitoring\workNet\obj\Debug\workNet.pdb
